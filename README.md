@@ -18,6 +18,18 @@
 
 <img src="public/images/activity-diagram.png">
 
+## Database version
+
+Database menggunakan MySQL
+
+## PHP Version
+
+PHP version 8.0
+
+## Laravel Version
+
+Laravel 8
+
 # Clone Repository
 
 `git clone https://github.com/dprastha/Pemesanan-Kendaraan-App.git`
