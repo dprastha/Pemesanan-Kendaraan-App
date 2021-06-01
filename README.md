@@ -1,12 +1,22 @@
 # julio-betta-fish-backend
 
-Pemesanan Kendaraan using laravel
+## Pemesanan Kendaraan using laravel
 
-Admin Page
+## Admin Page
+
 <img src="public/images/ui.png">
 
-Penyetuju Page
+## Penyetuju Page
+
 <img src="public/images/ui-penyetuju.png">
+
+## Physical Data Model
+
+<img src="public/images/pdm.png">
+
+## Activity Diagram
+
+<img src="public/images/activity-diagram.png">
 
 # Clone Repository
 
