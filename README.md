@@ -2,7 +2,11 @@
 
 Pemesanan Kendaraan using laravel
 
+Admin Page
 <img src="public/images/ui.png">
+
+Penyetuju Page
+<img src="public/images/ui-penyetuju.png">
 
 # Clone Repository
 
@@ -10,7 +14,7 @@ Pemesanan Kendaraan using laravel
 
 # Import Database
 
-## Import database to phpmyadmin on folder importDB/pemesanan-kendaraan.sql
+## Import database to phpmyadmin on folder _importDB/pemesanan-kendaraan.sql_
 
 Pastikan nama database sama dengan nama file .sql
 
@@ -28,10 +32,10 @@ jika tidak ada file `.env`, buat sendiri lalu copy dari file `.env.example`
 
 ## Admin
 
-email : `admin@gmail.com`
+email : `admin@gmail.com` <br/>
 password : `123456`
 
 ## Penyetuju
 
-email : `penyetuju@gmail.com`
+email : `penyetuju@gmail.com` <br/>
 password : `123456`
